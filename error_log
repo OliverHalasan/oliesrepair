@@ -1,0 +1,6 @@
+[20-Jan-2023 18:03:53 America/Boise] PHP Warning:  include(header): failed to open stream: No such file or directory in /home4/wewempmy/public_html/OliverHalasan/olies-repair/index.php on line 1
+[20-Jan-2023 18:03:53 America/Boise] PHP Warning:  include(header): failed to open stream: No such file or directory in /home4/wewempmy/public_html/OliverHalasan/olies-repair/index.php on line 1
+[20-Jan-2023 18:03:53 America/Boise] PHP Warning:  include(): Failed opening 'header' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/wewempmy/public_html/OliverHalasan/olies-repair/index.php on line 1
+[20-Jan-2023 18:03:53 America/Boise] PHP Warning:  include(footer): failed to open stream: No such file or directory in /home4/wewempmy/public_html/OliverHalasan/olies-repair/index.php on line 7
+[20-Jan-2023 18:03:53 America/Boise] PHP Warning:  include(footer): failed to open stream: No such file or directory in /home4/wewempmy/public_html/OliverHalasan/olies-repair/index.php on line 7
+[20-Jan-2023 18:03:53 America/Boise] PHP Warning:  include(): Failed opening 'footer' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/wewempmy/public_html/OliverHalasan/olies-repair/index.php on line 7
