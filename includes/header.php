@@ -104,7 +104,7 @@
 
         </div>
 
-        <nav class="d-flex flex-wrap align-items-center justify-content-between  py-3 mb-4 border-bottom  navbar-expand-sm">
+        <nav class="d-flex flex-wrap align-items-center justify-content-between  py-3 border-bottom  navbar-expand-sm">
 
             <div class="container-fluid d-flex flex-wrap align-items-center ">
 
