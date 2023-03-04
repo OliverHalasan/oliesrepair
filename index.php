@@ -39,7 +39,7 @@
     <section style="height: 100%;" class="d-flex bg-image">
         <div class="px-4 py-5 my-5 text-center d-flex align-items-center justify-content-center flex-wrap ">
             <div class="d-flex flex-column align-items-center justify-content-center transbox col-8 rounded">
-                <h1 class="font-weight-bold text-color-theme">Auto Repair Sercives</h1>
+                <h1 class="font-weight-bold text-color-theme">Auto Repair Services</h1>
                 <p class="p-4 h6 text-muted">Olie's Repair is a full auto care for you vehcile. We have invested in all the latest specialist tools and diagnostic software that is specifically tailored for the software in your vehicle. Our auto repair shop is capable of servicing a variety of models. We only do the work that is needed to fix your problem. If you want the quality you would expect from the dealership, but with a more personal and friendly atmosphere, you have found it. </p>
             </div>
 
