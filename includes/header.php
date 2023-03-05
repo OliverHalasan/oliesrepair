@@ -128,13 +128,15 @@
 
                     <ul class="nav col-12 col-md-auto mb-2 justify-content-center mb-md-0">
 
+                    <li><a href="https://oliverhalasan.com/oliesrepair/" class="nav-link px-3 fs-4 link-dark">Home</a></li>
+
+
                         <li><a href="services.php" class="nav-link px-3 fs-4 link-dark">Services</a></li>
+
+                        <li><a href="appointment.php" class="nav-link px-3 fs-4 link-dark">Appointment</a></li>
 
                         <li><a href="contactus.php" class="nav-link px-3 fs-4 link-dark">Contact Us</a></li>
 
-                        <li><a href="#" class="nav-link px-3 fs-4 link-dark">About Us</a></li>
-
-                        <li><a href="#" class="nav-link px-3 fs-4 link-dark">Contact</a></li>
 
                     </ul>
 
